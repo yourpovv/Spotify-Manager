@@ -4,10 +4,10 @@
 
 </div>
 <p align="center">
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/YourPOV/Spotify-Manager?color=56BEB8">
-  <img alt="Language count" src="https://img.shields.io/github/languages/count/YourPOV/Spotify-Manager?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/YourPOV/Spotify-Manager?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/YourPOV/Spotify-Manager?color=56BEB8">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/yourpovv/Spotify-Manager?color=56BEB8">
+  <img alt="Language count" src="https://img.shields.io/github/languages/count/yourpovv/Spotify-Manager?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yourpovv/Spotify-Manager?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/yourpovv/Spotify-Manager?color=56BEB8">
 </p>
 
 ---
@@ -32,7 +32,7 @@ app for managing spotify playlists
 ## Install
 
 ```bash
-git clone https://github.com/YourPOV/Spotify-Manager.git
+git clone https://github.com/yourpovv/Spotify-Manager.git
 cd Spotify-Manager
 npm install
 ```
