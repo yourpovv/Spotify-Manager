@@ -1,7 +1,7 @@
-<div align="center" id="top">
+<div align="center">
 
 # Spotify Manager
-
+**app for managing spotify playlists**
 </div>
 <p align="center">
   <img alt="Top language" src="https://img.shields.io/github/languages/top/yourpovv/Spotify-Manager?color=56BEB8">
@@ -10,10 +10,11 @@
   <img alt="License" src="https://img.shields.io/github/license/yourpovv/Spotify-Manager?color=56BEB8">
 </p>
 
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/75a5baeb-0f8a-4dbc-a587-d5faaf87440f" />
+
+</div>
+
 ---
-
-app for managing spotify playlists
-
 
 ## Features
 
